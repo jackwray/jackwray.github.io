@@ -1,0 +1,35 @@
+.buttons {
+	color:white;
+	font-size: 30px;
+	padding-top: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.div1 {
+	background-color:grey;
+	height: 150px;
+	width: 1350px;
+}
+.div3 {
+	 background-color:black;
+	 height: 440px;
+	 width: 500px;
+	 float:left;
+	 color:white;
+
+}
+.div4 {
+	background-color:cyan;
+	height: 440px;
+	width: 850px;
+	 float:left;
+	 color:white; 
+}
+.div2 {
+	margin: auto;
+}
+.Myname {
+	color:white;
+	align:center;
+}
