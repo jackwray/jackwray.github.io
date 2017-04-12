@@ -31,5 +31,54 @@
 }
 .Myname {
 	color:white;
-	align:center;
+	padding-left:50px;
+	padding-top:20px;
 }
+.student {
+	color:white;
+	padding-left:75px;
+	font-size: 20px;
+}
+.learner {
+	color:white;
+	padding-left: 75px;
+	font-size: 20px;
+}
+.sports {
+	color:white;
+	padding-left: 75px;
+	font-size: 20px;
+}
+.family {
+	color:white;
+	padding-left: 75px;
+	font-size: 20px;
+}
+.entergetic {
+	color: white;
+	padding-left: 90px;
+	padding-top: 20px;
+	font-size: 27px;
+}
+.determined {
+	color: white;
+	padding-left: 90px;
+	font-size: 27px;
+}
+.open {
+	color: white;
+	padding-left: 90px;
+	font-size: 27px;
+}
+.shortbio {
+	color: white;
+	padding-left: 115px;
+	font-size: 16px;
+	padding-right: 340px;
+}
+
+
+
+
+
+
