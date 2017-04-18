@@ -9,7 +9,7 @@
 .div1 {
 	background-color:grey;
 	height: 150px;
-	width: 1350px;
+	width: 1307.49px;
 }
 .div3 {
 	 background-color:black;
@@ -25,9 +25,11 @@
 	width: 850px;
 	 float:left;
 	 color:white; 
+	 flex: 1;
 }
 .div2 {
 	margin: auto;
+	display: flex;
 }
 .Myname {
 	color:white;
@@ -74,10 +76,16 @@
 	color: white;
 	padding-left: 115px;
 	font-size: 16px;
-	padding-right: 340px;
+	padding-right: 45px;
 }
-
-
+.profile {
+	padding: 20px;
+	background-color: cyan;
+}
+.pictures {
+	padding-left: 45px;
+	background-color: black;
+}
 
 
 
