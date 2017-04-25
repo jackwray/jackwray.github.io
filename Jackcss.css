@@ -1,7 +1,8 @@
 .buttons {
 	color:white;
 	font-size: 30px;
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 }
 
 .div1 {
@@ -84,7 +85,19 @@
 	padding-left: 55px;
 	background-color: black;
 }
-
-
+.div5 {
+	height: 440px;
+	width: 1350px;
+	background-color: red;
+	color: white;
+}
+.div6 {
+	height: 570px;
+	width: 975px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-left: 375px;
+}
 
 
