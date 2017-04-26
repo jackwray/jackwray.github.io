@@ -87,9 +87,13 @@
 }
 .div5 {
 	height: 440px;
-	width: 1350px;
+	width: 1055px;
 	background-color: red;
 	color: white;
+	margin: auto;
+	flex: 1;
+	float: right;
+	padding-right: 5px;
 }
 .div6 {
 	height: 570px;
